@@ -2,3 +2,4 @@
 
 
 print("Very useful update!")
+print("Hello, world!")
